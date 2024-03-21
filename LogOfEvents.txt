@@ -1,0 +1,4 @@
+The invoice with ID: 4 made by the client with ID: 1 from the product with the ID of: 1 in the quantity of: 24, was made.
+The invoice with ID: 5 made by the client with ID: 1 from the product with the ID of: 1 in the quantity of: 1, was made.
+The invoice with ID: 6 made by the client with ID: 1 from the product with the ID of: 1 in the quantity of: 1, was made.
+The invoice with ID: 7 made by the client with ID: 1 from the product with the ID of: 1 in the quantity of: 1, was made.
